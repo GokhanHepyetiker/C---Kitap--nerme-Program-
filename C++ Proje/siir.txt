@@ -1,0 +1,24 @@
+sayfasayisi		fiyat		tema		adi
+376			20		ask		Sevda-Sozleri(Cemal-Sureyya)
+184			20		vatan-sevgisi	Hasretinden-Prangalar-Eskittim(Ahmet-Arif)
+120			9		yanlizlik	Yalnizlik-Paylasilmaz(Ozdemir-Asaf)
+156			16		ask		Ben-Sana-Mecburum(Attila-Ilhan)
+64			9		ask		Uvercinka(Cemal-Sureya)
+48			12		ask		Monna-Rosa-Siirler(Sezai-Karakoc)
+116			6		ask		Gelmis-Bulundum(Edip-Cansever)
+161			6		ask		Butun-siirler(Sabahattin-Ali)
+511			28		tasavvuf	Cile(Necip-Fazil-Kisakurek)
+282			16		kahramanlik	Han-duvarlari(Faruk-Nafiz-Camlibel)
+130			10		huzun		Elde-Var-Huzun(Attila-İlhan)
+175			10		baskici-donem	Korkunun-Kralligi(Attila-İlhan)
+248			18		vatan-sevgisi	835-Satir(Nazim-Hikmet) 
+72			13		huzun		Grapon-Kagitlari(Didem-Madak)
+664			30		ayrilik		Sonrasi-Kalir/Butun-Siirleri(1.Cilt)(Edip-Cansever)
+80                      9               ask             Leyla(Ercan-Hanay)
+128                     18              huzun           Yalnizlik-Duragi(Remziye-Ejder)
+148                     11              baskici-donem   Soneler(William-Shakespeare)
+
+
+
+
+		

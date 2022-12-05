@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1621719722 source:c:\users\azman\onedrive\masaüstü\noktayi koyduk\main.cpp
+	<iostream>
+	<fstream>
+	"kitap.h"
+
+1621614859 c:\users\azman\onedrive\masaüstü\noktayi koyduk\kitap.h
+
+1621719722 source:c:\users\azman\onedrive\masaüstü\c++\noktayi koyduk\main.cpp
+	<iostream>
+	<fstream>
+	"kitap.h"
+
+1621614859 c:\users\azman\onedrive\masaüstü\c++\noktayi koyduk\kitap.h
+

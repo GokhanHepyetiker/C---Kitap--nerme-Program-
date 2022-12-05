@@ -1,0 +1,26 @@
+sayfasayisi		fiyat			tema			  adi
+68			6			ruhsal-caresizlik	  Altinci-Kogus(Anton-Cehov)
+261			22			ic-catisma		  Sineklerin-Tanrisi(William-Golding)
+68			6			ask			  Bilinmeyen-Bir-Kadinin-Mektubu(Stefan-Zweig)
+152			7			politik-taslama		  Hayvan-Ciftligi(George-Orwell)
+88			6			elestri			  Bir-Idam-Mahkumunun-Son-Gunu(Victor-Hugo)
+172			9			elestri			  Otomatik-Portakal(Anthony-Burgess)
+74			5			yabancilasma		  Donusum(Franz-Kafka)
+56			8			ask			  Bir-Kuzey-Macerasi(Jack-London)
+687			40			adalet			  Suc-ve-Ceza(Dostoyevski)
+96			6			yasama-amaci		  Insan-ne-ile-yasar?(Lev-Tolstoy)
+140			8			ruhsal-caresizlik	  Yeraltindan-Notlar(Dostoyevski)
+50			6			kibir			  Zacharius-Usta(Tules-Verne)
+110			11			sevgi			  Vahsetin-Cagrisi(Jack-London)
+461			35			yoksulluk                 Sefiller(Victor-Hugo)
+400			20			ask			  Milenaya-Mektuplar(Franz-Kafka)
+83			5			yalnizlik		  Satranc(Franz-Kafka)
+424			25			ask			  Gurur-ve-Onyargi(Jane-Austen)
+48			5			yalnizlik	  	  Aforizmalar(Franz-Kafka)
+126			7			ask			  Genc-Wertherin-Acilari(Goethe)
+127			10			esitlik			  Kendine-Ait-Bir-Oda(Virginia-Woolf)
+223			25			elestri			  Bir-Delinin-Hatira-Defteri(Nikolay-Vasilyevic-Gogol)
+
+
+
+
